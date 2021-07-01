@@ -1,27 +1,30 @@
 # Astronomy Picture of the Day (APOD-V)
 
-A  flutter app to display Astronomy picture of the day by getting the data from NASA API.
+A  flutter app⚡ to display Astronomy🚀 picture of the day by getting the data from NASA🌏 API.
 
+### Landing page
+
+[APOD-V Website](https://glacial-cove-14244.herokuapp.com/) Check out this site.✨👁‍🗨
 
 ## Features
 
-- Gets you todays Astronomy Picture of the day from NASA.
+- Gets you todays 🛰🔭Astronomy Picture of the day from NASA🌏.
 <div style="display:inline">
 <img src="readme_images/2.png" alt="" height="300" />
 </div>
 
-- You can search for picture of particular day from 1996 to today.
+- You can search🔭 for picture of particular day from 1996📅 to today📍.
 <div style="display:inline">
 <img src="readme_images/3.png" alt="" height="300" />
 </div><br>
 
-- Youtube links of picture of day can also be played within app.
+- Youtube🎬 links of picture of day can also be played within app.
 <div style="display:inline">
 <img src="readme_images/6.png" alt="" height="300" />
 <img src="readme_images/7.png" alt="" height="300" />
 </div><br>
 
-- You can use the search 2000 times in an hour.Counter resets back again to 2000 requests after an hour.You can check how many requests are remaining for this hour.
+- You can use the 🔭search 2000 times⏳ in an hour.Counter resets back again to 2000 requests after an hour⏲.You can check how many requests are remaining for this hour.
 <div style="display:inline">
 <img src="readme_images/10.png" alt="" height="300" />
 <img src="readme_images/9.png" alt="" height="300" />
